@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "category": "Prayers",
+        "description": "Prayers is a multi-faceted, complex subject. Prayer is not just talking to God. Although talking to God is important, prayer is not a monologue but a dialogue.",
+        "img": "https://media.istockphoto.com/photos/closeup-shot-of-a-muslim-young-man-worshiping-in-a-mosque-picture-id1191682692?b=1&k=20&m=1191682692&s=170667a&w=0&h=j8XQshY02A1UphqX_zLnBdDAPKEkMxgXB072bzZOd6s=",
+        "quantity": 0,
+        "age": "10-100",
+        "time": 5
+    },
+    {
+        "id": 2,
+        "category": "Workout",
+        "description": "We know daily exercise is good for optimizing health. But with so many options and limitless information available, it’s easy to get overwhelmed with what works.",
+        "img": "https://images.unsplash.com/photo-1549060279-7e168fcee0c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHdvcmtvdXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "age": "20-45",
+        "time": 10,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "category": "Gym Session",
+        "description": "Everyone has different reasons for joining a gym. And lots of people are worried about using the equipment if they’ve never worked out in a gym before.",
+        "img": "https://images.unsplash.com/photo-1581009137042-c552e485697a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "age": "20-42",
+        "time": 5,
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "category": "Cyling",
+        "description": "Cycling is a healthy, low-impact exercise that can be enjoyed by people of all ages, from young children to older adults. It is also fun, cheap and good for the environment.",
+        "img": "https://images.unsplash.com/photo-1606224547099-b15c94ca5ef2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGN5Y2xpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "age": "5-50",
+        "time": 30,
+        "quantity": 0
+    },
+    {
+        "id": 5,
+        "category": "Walking",
+        "description": "Keeping a record of how many steps you take, the distance you walk and how long it takes can help you see where you started from and serve as a source of inspiration. ",
+        "img": "https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cnVubmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "age": "5-75",
+        "time": 20,
+        "quantity": 0
+    },
+    {
+        "id": 6,
+        "category": "Playing Football",
+        "description": "Exercise involves engaging in physical activity and increasing the heart rate beyond resting levels. ",
+        "img": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Zm9vdGJhbGx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "age": "10-35",
+        "time": 30,
+        "quantity": 0
+    }
+]
